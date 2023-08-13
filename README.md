@@ -6,19 +6,19 @@ Soongsil univ. datathon
 
 ---
 
-**▶ Lecommend;ssu란?** : 저조한 도서관 이용률과 도서 대출률의 재고를 위해 “외부 도서 추천 서비스”와 “혼잡도 제공 서비스”를 구현한 저희의  프로젝트명입니다.
+**▶Lecommend;ssu란?** : 저조한 도서관 이용률과 도서 대출률의 재고를 위해 “외부 도서 추천 서비스”와 “혼잡도 제공 서비스”를 구현한 저희의  프로젝트명입니다.
  
 ---
 
-▶  데이터톤 공모전 (Lecommend;ssu) 웹 구현 영상 :
+▶데이터톤 공모전 (Lecommend;ssu) 웹 구현 영상 :
 https://youtu.be/MzzMsozhnqs
 
-▶ 데이터톤 공모전 (Lecommend;ssu) 설명 PDF : 
+▶데이터톤 공모전 (Lecommend;ssu) 설명 PDF : 
 https://drive.google.com/file/d/1g9KVB3Py-pXmWgtI_ULUCQsS-ZlXrPaI/view?usp=sharing
 
 ---
 
-▶  수행 역할
+▶수행 역할
  
 ① 해결책의 활성화 단계에 해당하는 “학과·학년별 추천도서” 도출
 
